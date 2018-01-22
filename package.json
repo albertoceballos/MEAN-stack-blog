@@ -1,0 +1,29 @@
+{
+  "name": "mean-stack-blog",
+  "version": "1.0.0",
+  "description": "MEAN stack blog ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertoceballos/MEAN-stack-blog.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "Angular",
+    "App"
+  ],
+  "author": "Aljance",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albertoceballos/MEAN-stack-blog/issues"
+  },
+  "homepage": "https://github.com/albertoceballos/MEAN-stack-blog#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.1"
+  }
+}
